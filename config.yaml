@@ -1,0 +1,14 @@
+---
+contentdir: "content"
+layoutdir: "layouts"
+publishdir: "public"
+builddrafts: false
+indexes:
+  category: "categories"
+  archives: "archives"
+baseurl: "http://danielsjourney.com/"
+title: "Daniel Miller"
+permalinks:
+  blog: /blog/archives/:year/:month/:day/:slug
+  archive: /blog/archives/
+...

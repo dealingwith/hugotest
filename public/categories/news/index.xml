@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>News on kieranhealy.org </title>
+    <link>http://localhost:1313/categories/news/index.xml</link>
+    <language>en-us</language>
+    <author>Kieran Healy</author>
+    <rights>Copyright (c) KIeran Healy.</rights>
+    <updated>Wed, 13 Mar 2013 00:00:00 UTC</updated>
+    
+    <item>
+      <title>The Rumors of Google Reader&#39;s Death Have Not Been Greatly Exaggerated</title>
+      <link>http://localhost:1313/blog/archives/2013/03/13/the-rumors-of-google-readers-death-have-not-been-greatly-exaggerated</link>
+      <pubDate>Wed, 13 Mar 2013 00:00:00 UTC</pubDate>
+      <author>Kieran Healy</author>
+      <guid>http://localhost:1313/blog/archives/2013/03/13/the-rumors-of-google-readers-death-have-not-been-greatly-exaggerated</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/heatherweaver/2809992904/&#34;&gt;&lt;img src=&#34;http://farm4.staticflickr.com/3211/2809992904_23bbfbccd5.jpg&#34; alt=&#34;&amp;quot;Photo by Heather Weaver&amp;quot;&#34; title=&#34;Photo by Heather Weaver&#34; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;With &lt;a href=&#34;http://googlereader.blogspot.com/2013/03/powering-down-google-reader.html&#34;&gt;Google Reader being shut down&lt;/a&gt; I wasted no time searching for another RSS reader (having not much love for Google Reader in the first place but not enough discontent to move away from it&amp;hellip;until forced to). I&amp;rsquo;ve ended up at &lt;a href=&#34;http://netnewswireapp.com/&#34;&gt;NetNewsWire&lt;/a&gt;, the first one I thought about due to its longstanding good reputation in the Mac world.&lt;/p&gt;
+
+&lt;p&gt;The interesting thing is that lately I&amp;rsquo;ve been feeling a need to get back to the pre-Web-2.0 days of owning my own content. And importing all my blog subscriptions was incredibly telling in regards to those of you who have let your blogs languish. My favorite evidence of this was my friend Erica&amp;rsquo;s &lt;a href=&#34;http://cellaarts.blogspot.com/2010/12/tis-season-to-remember-lost-things.html&#34;&gt;last post&lt;/a&gt;, from 2010, promising to write more on her already-by-then long-neglected blog.&lt;/p&gt;
+
+&lt;p&gt;Now I just need a script to throw all my starred items into &lt;a href=&#34;http://www.instapaper.com/&#34;&gt;Instapaper&lt;/a&gt;, or somesuch. And those of you on &lt;a href=&#34;http://www.blogger.com/&#34;&gt;Blogger&lt;/a&gt;, you might should be looking over your shoulder. Remember when the people working on these products seemed so &lt;em&gt;glamorous?&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

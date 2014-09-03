@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>People on kieranhealy.org </title>
+    <link>http://localhost:1313/categories/people/index.xml</link>
+    <language>en-us</language>
+    <author>Kieran Healy</author>
+    <rights>Copyright (c) KIeran Healy.</rights>
+    <updated>Tue, 21 Dec 2010 00:00:00 UTC</updated>
+    
+    <item>
+      <title>Tableau</title>
+      <link>http://localhost:1313/blog/archives/2010/12/21/tableau</link>
+      <pubDate>Tue, 21 Dec 2010 00:00:00 UTC</pubDate>
+      <author>Kieran Healy</author>
+      <guid>http://localhost:1313/blog/archives/2010/12/21/tableau</guid>
+      <description>&lt;p&gt;Via &lt;a href=&#34;http://berglondon.com/blog/2010/12/16/thursday-links-a-drawerful-of-photographs-fictional-logos-flashy-advertising-and-space/&#34;&gt;BERG&lt;/a&gt;: &amp;ldquo;John Kestner’s &lt;a href=&#34;http://johnkestner.com/tableau/&#34;&gt;Tableau&lt;/a&gt; is a nightstand that drops photos
+it &amp;lsquo;sees&amp;rsquo; in its Twitter feed into its drawer, to be discovered by its owner.&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;&lt;iframe src=&#34;http://player.vimeo.com/video/17280777?title=0&amp;amp;byline=0&amp;amp;portrait=0&#34; width=&#34;400&#34; height=&#34;225&#34; frameborder=&#34;0&#34; webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;&lt;p&gt;&lt;a href=&#34;http://vimeo.com/17280777&#34;&gt;Tableau: physical email&lt;/a&gt; from &lt;a href=&#34;http://vimeo.com/jkestner&#34;&gt;John Kestner&lt;/a&gt; on &lt;a href=&#34;http://vimeo.com&#34;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;John Kestner is part of the &lt;a href=&#34;http://eco.media.mit.edu/&#34;&gt;Information Ecology team at the MIT Media
+Lab&lt;/a&gt;, so of course &lt;a href=&#34;http://twitter.com/#!/dealingwith/status/17031471495647232&#34;&gt;I&amp;rsquo;m going to gush a bit&lt;/a&gt;, but check out &lt;a href=&#34;http://vimeo.com/jkestner&#34;&gt;some videos
+of his other projects&lt;/a&gt; as well as &lt;a href=&#34;http://coloured.net/john/portfolio/&#34;&gt;the rest of his portfolio&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;m particarly interested in things like the &lt;a href=&#34;http://coloured.net/john/portfolio/daydar/&#34;&gt;Daydar personal productivity
+framework&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

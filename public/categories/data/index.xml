@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Data on kieranhealy.org </title>
+    <link>http://localhost:1313/categories/data/index.xml</link>
+    <language>en-us</language>
+    <author>Kieran Healy</author>
+    <rights>Copyright (c) KIeran Healy.</rights>
+    <updated>Sat, 10 Mar 2012 00:00:00 UTC</updated>
+    
+    <item>
+      <title>Stephen Wolfram -- The Personal Analytics of My Life</title>
+      <link>http://localhost:1313/blog/archives/2012/03/10/stephen-wolfram----the-personal-analytics-of-my-life</link>
+      <pubDate>Sat, 10 Mar 2012 00:00:00 UTC</pubDate>
+      <author>Kieran Healy</author>
+      <guid>http://localhost:1313/blog/archives/2012/03/10/stephen-wolfram----the-personal-analytics-of-my-life</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;/files/2012/03/outgoing-mail-diurnal-image.png&#34; alt=&#34;{quote}Here&#39;s a plot with a dot showing the time of each of the third of a million emails I&#39;ve sent since 1989&#34; /&gt;
+&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;http://blog.stephenwolfram.com/2012/03/the-personal-analytics-of-my-life/&#34;&gt;I have what is probably one of the world&amp;rsquo;s largest collections of personal data&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&amp;hellip;my consistent experience has been that the more routine I can make the basic practical aspects of my life, the more I am able to be energetic&amp;ndash;and spontaneous&amp;ndash;about intellectual and other things.&lt;/p&gt;
+
+&lt;p&gt;&amp;hellip;in time I&amp;rsquo;m looking forward to being able to ask Wolfram|Alpha all sorts of things about my life and times&amp;ndash;and have it immediately generate reports about them. Not only being able to act as an adjunct to my personal memory, but also to be able to do automatic computational history&amp;ndash;explaining how and why things happened&amp;ndash;and then making projections and predictions.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;This blog post crossed my desk from an unexpected source and I was pleased to have found it and enthralled by its content. One of the things I was most taken with was how it is a record of such undeniable industriousness.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

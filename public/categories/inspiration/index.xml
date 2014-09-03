@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Inspiration on kieranhealy.org </title>
+    <link>http://localhost:1313/categories/inspiration/index.xml</link>
+    <language>en-us</language>
+    <author>Kieran Healy</author>
+    <rights>Copyright (c) KIeran Healy.</rights>
+    <updated>Sun, 30 Sep 2012 00:00:00 UTC</updated>
+    
+    <item>
+      <title>Bret Victor - Inventing on Principle</title>
+      <link>http://localhost:1313/blog/archives/2012/09/30/bret-victor---inventing-on-principle</link>
+      <pubDate>Sun, 30 Sep 2012 00:00:00 UTC</pubDate>
+      <author>Kieran Healy</author>
+      <guid>http://localhost:1313/blog/archives/2012/09/30/bret-victor---inventing-on-principle</guid>
+      <description>&lt;p&gt;This video made the rounds a few months ago, and for good reason. It starts with some stuff that maybe only nerds can appreciate, but the end is dynamite. If you&amp;rsquo;ve already seen it, it&amp;rsquo;s worth a second viewing. If you&amp;rsquo;ve never seen it, it&amp;rsquo;s probably because you&amp;rsquo;re not a nerd, and it&amp;rsquo;s worth watching all the way through regardless&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;&lt;iframe src=&#34;http://player.vimeo.com/video/36579366?byline=0&#34; width=&#34;500&#34; height=&#34;281&#34; frameborder=&#34;0&#34; webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href=&#34;http://vimeo.com/36579366&#34;&gt;Bret Victor - Inventing on Principle&lt;/a&gt; from &lt;a href=&#34;http://vimeo.com/cusec&#34;&gt;CUSEC&lt;/a&gt; on &lt;a href=&#34;http://vimeo.com&#34;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

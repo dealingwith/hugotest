@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Colophon on kieranhealy.org </title>
+    <link>http://localhost:1313/categories/colophon/index.xml</link>
+    <language>en-us</language>
+    <author>Kieran Healy</author>
+    <rights>Copyright (c) KIeran Healy.</rights>
+    <updated>Mon, 14 Nov 2011 00:00:00 UTC</updated>
+    
+    <item>
+      <title>Welcome to My New Old Blog</title>
+      <link>http://localhost:1313/blog/archives/2011/11/14/welcome-to-my-new-old-blog</link>
+      <pubDate>Mon, 14 Nov 2011 00:00:00 UTC</pubDate>
+      <author>Kieran Healy</author>
+      <guid>http://localhost:1313/blog/archives/2011/11/14/welcome-to-my-new-old-blog</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/lecates/454787692/&#34;&gt;&lt;img src=&#34;http://farm1.staticflickr.com/209/454787692_3afbd053bb_z.jpg&#34; alt=&#34;Internet and Tacos&#34; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Hi. I&amp;rsquo;m Daniel. I&amp;rsquo;ve run a blog of some sort or another since 2001. I was originally on Blogger, then Moveable Type, then a little piece of software I wrote myself called SWIM. Then I ran away from what I considered &amp;ldquo;normal&amp;rdquo; blogging and was hiding away on LiveJournal for a while.&lt;/p&gt;
+
+&lt;p&gt;Last year I started a blog using Jekyll.&lt;/p&gt;
+
+&lt;p&gt;Now I&amp;rsquo;m trying to move everything to Jekyll, which means every post will be an old fashioned HTML file here on my very own server. No database. No server side scripts to be hacked.&lt;/p&gt;
+
+&lt;p&gt;Eventually this will happen. In the meantime I&amp;rsquo;m just trying to get one post to show up!&lt;/p&gt;
+
+&lt;p&gt;Update: &amp;lsquo;I ended up getting half of my archive imported and (somewhat) cleaned up. This includes everything I blogged on LiveJournal from 2005-2010 and everything I blogged on my design blog &lt;em&gt;nonlinear&lt;/em&gt; on Blogger from 2001-2011. I have yet to import my personal blog from 2001-2005. Or really go through the archive to see what else might be broken. I did cursory testing/fixing as I&amp;rsquo;&lt;/p&gt;
+
+&lt;p&gt;Update Dec 2nd: Importing the rest. Boy is it a pain. Also apologies to RSS readers out there. The whole feed appeared as new posts.&lt;/p&gt;
+
+&lt;p&gt;Update Dec 3rd: Got the rest of the posts imported. My blog is now a little big for Jekyll, but I&amp;rsquo;m not sure what I&amp;rsquo;m going to do about it now. 2,980 posts. The archive page is &lt;em&gt;long&lt;/em&gt;. I need a spider that will identify all the broken links and images on the site, because there are surely a &lt;em&gt;ton&lt;/em&gt;. I&amp;rsquo;m going to slowly work on removing/fixing broken links/images as well as deleting posts that just don&amp;rsquo;t matter or don&amp;rsquo;t belong on here anyway&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;Update Dec 19th: I broke out the archives into two different chunks for the sake of my blog engine and sanity. Now the need to sift through them and clean them up a bit, as well as set them up on their own subdomains, means it will be a little bit longer before they are again up on the site.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

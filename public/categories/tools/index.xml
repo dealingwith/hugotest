@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Tools on kieranhealy.org </title>
+    <link>http://localhost:1313/categories/tools/index.xml</link>
+    <language>en-us</language>
+    <author>Kieran Healy</author>
+    <rights>Copyright (c) KIeran Healy.</rights>
+    <updated>Tue, 03 Jan 2012 00:00:00 UTC</updated>
+    
+    <item>
+      <title>Slowly Opening the Can of Worms: Editors</title>
+      <link>http://localhost:1313/blog/archives/2012/01/03/slowly-opening-the-can-of-worms-editors</link>
+      <pubDate>Tue, 03 Jan 2012 00:00:00 UTC</pubDate>
+      <author>Kieran Healy</author>
+      <guid>http://localhost:1313/blog/archives/2012/01/03/slowly-opening-the-can-of-worms-editors</guid>
+      <description>
+
+&lt;p&gt;&lt;img src=&#34;/files/2012/01/software.jpg&#34; alt=&#34;This Software is AMAZING&#34; /&gt;
+&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_0&#34;&gt;The Worms&lt;/h2&gt;
+
+&lt;p&gt;The only thing greater than the number of text/code editors in the world are the number of developer opinions about them. There is the classic &lt;a href=&#34;http://www.vim.org/&#34;&gt;Vim&lt;/a&gt;/&lt;a href=&#34;http://www.gnu.org/software/emacs/&#34;&gt;Emacs&lt;/a&gt; debate. There are constant comments about the languishing of the popular &lt;a href=&#34;http://macromates.com/&#34;&gt;Textmate&lt;/a&gt; (and pigs-have-flown exclamations at its recent 2.0 release). There are so many editors and development environments, in fact, that I must stop mentioning them now or risk a never ending paragraph burdened with commas.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_1&#34;&gt;Pop-top&lt;/h2&gt;
+
+&lt;p&gt;At &lt;a href=&#34;http://extrasauce.com/&#34;&gt;Extra Sauce&lt;/a&gt; we are not only platform agnostic (we pick the best stack on a project-by-project basis, although we have some tendencies) but we are tool agnostic. Within the development team we are split between Emacs, &lt;a href=&#34;http://www.sublimetext.com/&#34;&gt;Sublime Text&lt;/a&gt; and &lt;a href=&#34;http://panic.com/coda/&#34;&gt;Coda&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;We are all happy with our different tools for various reasons. So I ask this almost entirely due to simple curiosity: which editor do &lt;em&gt;you&lt;/em&gt; use? Leave your reply wherever&amp;hellip;we&amp;rsquo;ll see it.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

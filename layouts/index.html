@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    {{ template "chrome/meta.html" . }}
+    <base href="{{ .Site.BaseUrl }}">
+    <title>{{ .Site.Title }}</title>
+    <link rel="canonical" href="{{ .Permalink }}">
+    <link href="{{ .RSSlink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
+    {{ template "chrome/head_includes.html" . }}
+  </head>
+  <body lang="en">
+    {{ template "chrome/sidebar.html" . }}
+    
+    <div class="content container">
+      <div class="page">
+        <h1>Hi, I'm Daniel.</h1>
+        <p>I like to make things on the web. I currently lead the development team at <a href="http://modernmsg.com">Modern Message</a>. I also make and produce <a href="http://themusicgroup.org">music</a> and <a href="http://2005.danielsjourney.com/categories/fiction/">stories</a>. I also <a href="http://blog.danielsjourney.com/">blog</a> and <a href="http://twitter.com/dealingwith">tweet</a>.</p>
+        <p>I live in the <a href="https://www.google.com/maps/place/White+Rock+Lake,+Dallas,+TX/">Lakewood</a> neighborhood of Dallas, Texas. I have previously lived in Pennsylvania, Arizona, Florida, Virginia and Bosnia. I am permanently in love with <a href="http://carissabyers.com/">Carissa Byers</a>.
+        </p>
+      </div>
+    </div>
