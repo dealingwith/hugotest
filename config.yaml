@@ -5,7 +5,7 @@ publishdir: "public"
 builddrafts: false
 indexes:
   category: "categories"
-  archives: "archives"
+  archive: "archives"
 baseurl: "http://danielsjourney.com/"
 title: "Daniel Miller"
 permalinks:
